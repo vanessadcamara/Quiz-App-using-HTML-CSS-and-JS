@@ -2,7 +2,7 @@
 
 This aplication is a class task and it was made based on a course on Udemy [1].
 As I'd liked to improve my skills on coding and learning HTML, CSS and JavaScript, I used Portuguese and English langages to build the project.
-Also, I'm a newbie using these languages, so, if you'd like to help, feel free to send me pull requests or [contact me]!(https://web.telegram.org/#/im?p=@vanessadcamara)
+Also, I'm a newbie using these languages, so, if you'd like to help, feel free to send me pull requests or [contact me!](https://web.telegram.org/#/im?p=@vanessadcamara)
 
 # How it Works
 
