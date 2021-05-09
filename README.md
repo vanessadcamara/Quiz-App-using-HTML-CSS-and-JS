@@ -6,7 +6,7 @@ Also, I'm a newbie using these languages, so, if you'd like to help, feel free t
 
 # How it Works
 
-It's a game that you have to answer three generic questions. In the end, it asks you to write an username and save. On Scores, you can see how many points you got and a list of high scores. This app was made with HTML, CSS and JS, no frameworks are used to build it, and the questions were generated using Trivia API's dataset [2, 3].
+It's a game that you have to answer three generic questions. In the end, it asks you to write an username and save. On Scores, you can see how many points you got and a list of high scores. This app was made with HTML, CSS and JS, no frameworks are used to build it, and the questions were generated using Trivia API's dataset [2, 3]. You can visualize your progress by enabling the extension Live Server [4] on Visual Studio Code, which launch a development local Server with live reload feature for pages.
 
 # References
 
@@ -15,3 +15,5 @@ It's a game that you have to answer three generic questions. In the end, it asks
 [2] https://opentdb.com/api.php?amount=10&category=9&difficulty=easy&type=multiple
 
 [3] https://opentdb.com/api_config.php
+
+[4] https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
