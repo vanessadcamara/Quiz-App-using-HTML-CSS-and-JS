@@ -2,7 +2,7 @@
 
 This aplication is a class task and it was made based on a course on Udemy [1].
 As I'd liked to improve my skills on coding and learning HTML, CSS and JavaScript, I used Portuguese (to understande better what I'm doing) and English (The default Udemy's course language) to build the project. Moreover, the repo where you can find the original version of the quiz is [here](https://github.com/jamesqquick/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript).
-Also, I'm a newbie using these languages, so, if you'd like to help, feel free to send me pull requests or [contact me!](https://web.telegram.org/#/im?p=@vanessadcamara)
+Also, I'm a newbie using these languages, so, if you'd like to help, feel free to send me pull requests or [contact me](https://web.telegram.org/#/im?p=@vanessadcamara) and colab with this repo.
 
 # How it Works
 
